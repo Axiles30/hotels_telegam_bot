@@ -1,0 +1,54 @@
+{
+    "user_name":"Venator92",
+    "user_id":"526593116",
+    "country":"Tokyo Prefecture, Japan",
+    "city":"Tokyo",
+    "city_id":"3593",
+    "data":[
+        {
+            "id":"15215",
+            "name":"Keio Plaza Hotel Tokyo",
+            "image":"https://a.travel-assets.com/media/meso_cm/PAPI/Images/lodging/1000000/20000/15300/15215/63cd74d3_b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "check_in_date":"15-07-24",
+            "check_out_date":"20-07-24",
+            "price_per_day":"$401",
+            "price_all":"$1,903 total"
+        },
+        {
+            "id":"46383577",
+            "name":"MONday Apart Premium NIHONBASHI(Former:GATE STAY PREMIUM NIHONBASHI)",
+            "image":"https://a.travel-assets.com/media/meso_cm/PAPI/Images/lodging/47000000/46390000/46383600/46383577/93d9e105_b.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "check_in_date":"15-07-24",
+            "check_out_date":"20-07-24",
+            "price_per_day":"$632",
+            "price_all":"$1,217 total"
+        },
+        {
+            "id":"15215",
+            "name":"Keio Plaza Hotel Tokyo",
+            "image":"https://images.trvl-media.com/lodging/1000000/20000/15300/15215/b1b4258c.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "check_in_date":"15-07-24",
+            "check_out_date":"20-07-24",
+            "price_per_day":"$401",
+            "price_all":"$1,903 total"
+        },
+        {
+            "id":"9104481",
+            "name":"Hotel Gracery Shinjuku",
+            "image":"https://images.trvl-media.com/lodging/10000000/9110000/9104500/9104481/875105c4.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "check_in_date":"15-07-24",
+            "check_out_date":"20-07-24",
+            "price_per_day":"$342",
+            "price_all":"$1,251 total"
+        },
+        {
+            "id":"31552304",
+            "name":"BESPOKE HOTEL Shinjuku",
+            "image":"https://images.trvl-media.com/lodging/32000000/31560000/31552400/31552304/f9ffb151.jpg?impolicy=resizecrop&rw=455&ra=fit",
+            "check_in_date":"15-07-24",
+            "check_out_date":"20-07-24",
+            "price_per_day":"$258",
+            "price_all":"$1,134 total"
+        }
+    ]
+}

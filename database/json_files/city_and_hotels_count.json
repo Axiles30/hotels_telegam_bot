@@ -1,0 +1,16 @@
+{
+    "city": "Tokyo",
+    "country": "Tokyo Prefecture, Japan",
+    "gaiaId": "3593",
+    "hotel_count": 5,
+    "check_in_date": {
+        "day": 15,
+        "month": 7,
+        "year": 24
+    },
+    "check_out_date": {
+        "day": 20,
+        "month": 7,
+        "year": 24
+    }
+}

@@ -1,0 +1,360 @@
+{
+    "q": "Tokyo",
+    "rid": "89a2e4a17e8942fab8d06b5507035e7c",
+    "rc": "OK",
+    "sr": [
+        {
+            "@type": "gaiaRegionResult",
+            "index": "0",
+            "gaiaId": "3593",
+            "type": "CITY",
+            "regionNames": {
+                "fullName": "Tokyo, Tokyo Prefecture, Japan",
+                "shortName": "Tokyo",
+                "displayName": "Tokyo, Tokyo Prefecture, Japan",
+                "primaryDisplayName": "Tokyo",
+                "secondaryDisplayName": "Tokyo Prefecture, Japan",
+                "lastSearchName": "Tokyo"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "3593"
+            },
+            "coordinates": {
+                "lat": "35.681143",
+                "long": "139.767208"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "1",
+            "gaiaId": "179168",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Shinjuku, Tokyo, Tokyo Prefecture, Japan",
+                "shortName": "Shinjuku",
+                "displayName": "Shinjuku, Tokyo, Tokyo Prefecture, Japan",
+                "primaryDisplayName": "Shinjuku",
+                "secondaryDisplayName": "Tokyo, Tokyo Prefecture, Japan",
+                "lastSearchName": "Shinjuku"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "179168"
+            },
+            "coordinates": {
+                "lat": "35.693763",
+                "long": "139.703632"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "2",
+            "gaiaId": "4476488",
+            "type": "AIRPORT",
+            "regionNames": {
+                "fullName": "Tokyo, Japan (HND-Haneda)",
+                "shortName": "Tokyo (HND-Haneda)",
+                "displayName": "Tokyo (HND - Haneda), Japan",
+                "primaryDisplayName": "Tokyo (HND - Haneda)",
+                "secondaryDisplayName": "Japan",
+                "lastSearchName": "Tokyo (HND - Haneda)"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "4476488"
+            },
+            "coordinates": {
+                "lat": "35.549477",
+                "long": "139.785104"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "HND",
+                    "airportId": "4476488",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            },
+            "isMinorAirport": "false"
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "3",
+            "gaiaId": "6048237",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Ginza, Tokyo, Tokyo Prefecture, Japan",
+                "shortName": "Ginza",
+                "displayName": "Ginza, Tokyo, Tokyo Prefecture, Japan",
+                "primaryDisplayName": "Ginza",
+                "secondaryDisplayName": "Tokyo, Tokyo Prefecture, Japan",
+                "lastSearchName": "Ginza"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6048237"
+            },
+            "coordinates": {
+                "lat": "35.669516",
+                "long": "139.764306"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "4",
+            "gaiaId": "503084",
+            "type": "POI",
+            "regionNames": {
+                "fullName": "Tokyo Disneyland\u00ae, Urayasu, Chiba Prefecture, Japan",
+                "shortName": "Tokyo Disneyland\u00ae",
+                "displayName": "Tokyo Disneyland\u00ae, Urayasu, Chiba Prefecture, Japan",
+                "primaryDisplayName": "Tokyo Disneyland\u00ae",
+                "secondaryDisplayName": "Urayasu, Chiba Prefecture, Japan",
+                "lastSearchName": "Tokyo Disneyland\u00ae"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "503084"
+            },
+            "coordinates": {
+                "lat": "35.632569",
+                "long": "139.88078"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "5",
+            "gaiaId": "179167",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Shibuya, Tokyo, Tokyo Prefecture, Japan",
+                "shortName": "Shibuya",
+                "displayName": "Shibuya, Tokyo, Tokyo Prefecture, Japan",
+                "primaryDisplayName": "Shibuya",
+                "secondaryDisplayName": "Tokyo, Tokyo Prefecture, Japan",
+                "lastSearchName": "Shibuya"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "179167"
+            },
+            "coordinates": {
+                "lat": "35.664596",
+                "long": "139.698711"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "6",
+            "gaiaId": "5526094",
+            "type": "AIRPORT",
+            "regionNames": {
+                "fullName": "Tokyo, Japan (NRT-Narita Intl.)",
+                "shortName": "Tokyo (NRT-Narita Intl.)",
+                "displayName": "Tokyo (NRT - Narita Intl.), Japan",
+                "primaryDisplayName": "Tokyo (NRT - Narita Intl.)",
+                "secondaryDisplayName": "Japan",
+                "lastSearchName": "Tokyo (NRT - Narita Intl.)"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "5526094"
+            },
+            "coordinates": {
+                "lat": "35.773258",
+                "long": "140.388451"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "NRT",
+                    "airportId": "5526094",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            },
+            "isMinorAirport": "false"
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "7",
+            "gaiaId": "553248623547965518",
+            "type": "MULTIREGION",
+            "subtype": "HLR",
+            "regionNames": {
+                "fullName": "Central Tokyo, Tokyo Prefecture, Japan",
+                "shortName": "Central Tokyo",
+                "displayName": "Central Tokyo, Tokyo Prefecture, Japan",
+                "primaryDisplayName": "Central Tokyo",
+                "secondaryDisplayName": "Tokyo Prefecture, Japan",
+                "lastSearchName": "Central Tokyo"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "553248623547965518"
+            },
+            "coordinates": {
+                "lat": "35.694574086736104",
+                "long": "139.74384544324104"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "8",
+            "gaiaId": "179165",
+            "type": "NEIGHBORHOOD",
+            "regionNames": {
+                "fullName": "Shinagawa, Tokyo, Tokyo Prefecture, Japan",
+                "shortName": "Shinagawa",
+                "displayName": "Shinagawa, Tokyo, Tokyo Prefecture, Japan",
+                "primaryDisplayName": "Shinagawa",
+                "secondaryDisplayName": "Tokyo, Tokyo Prefecture, Japan",
+                "lastSearchName": "Shinagawa"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "179165"
+            },
+            "coordinates": {
+                "lat": "35.599252",
+                "long": "139.73891"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        },
+        {
+            "@type": "gaiaRegionResult",
+            "index": "9",
+            "gaiaId": "6076430",
+            "type": "POI",
+            "regionNames": {
+                "fullName": "Tokyo DisneySea\u00ae, Urayasu, Chiba Prefecture, Japan",
+                "shortName": "Tokyo DisneySea\u00ae",
+                "displayName": "Tokyo DisneySea\u00ae, Urayasu, Chiba Prefecture, Japan",
+                "primaryDisplayName": "Tokyo DisneySea\u00ae",
+                "secondaryDisplayName": "Urayasu, Chiba Prefecture, Japan",
+                "lastSearchName": "Tokyo DisneySea\u00ae"
+            },
+            "essId": {
+                "sourceName": "GAI",
+                "sourceId": "6076430"
+            },
+            "coordinates": {
+                "lat": "35.62663922207987",
+                "long": "139.8831775445975"
+            },
+            "hierarchyInfo": {
+                "country": {
+                    "name": "Japan",
+                    "isoCode2": "JP",
+                    "isoCode3": "JPN"
+                },
+                "airport": {
+                    "airportCode": "TYO",
+                    "airportId": "6139132",
+                    "metrocode": "TYO",
+                    "multicity": "179900"
+                }
+            }
+        }
+    ]
+}
